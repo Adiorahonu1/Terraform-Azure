@@ -3,3 +3,4 @@
 *.tfstate.*
 .terraform.lock.hcl
 secrets.txt
+terraform-provider-azurerm_v4.39.0_x5
